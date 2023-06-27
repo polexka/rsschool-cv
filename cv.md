@@ -6,8 +6,9 @@ title: Polina Tsukanova's CV
 
 St. Petersburg
 
-+79812242407 | pol1na-tsukanova@yandex.ru 
-discord: pol1chka | tg: polexka 
++79812242407 | pol1na-tsukanova@yandex.ru | discord: pol1chka | tg: polexka 
+
+Github: [polexka](https://github.com/polexka)
 
 ## Education
 
@@ -79,6 +80,8 @@ console.log(getNoun(anotherDuration, declensions));
 
 __Movie Searcher__
 
+[Frontend GH](https://github.com/polexka/movies-explorer-frontend) | [Backend GH](https://github.com/polexka/movies-explorer-api)
+
 Tasks:
 - set up the infrastructure and create a server on Express;
 - connect database, create API schemas and resource models;
@@ -92,13 +95,12 @@ Tasks:
 
 Technologies: HTML, CSS, React, Express, MongoDB, NodeJS, API, Nginx, JWT, Postman
 
-Frontend GH: https://github.com/polexka/movies-explorer-frontend 
-
-Backend GH: https://github.com/polexka/movies-explorer-api
 
 `Study project, 2022`
 
-__Photo sharing social network__
+__Photo sharing social network__ 
+
+[Github](https://github.com/polexka/react-mesto-api-full-gha)
 
 Tasks: 
 - create a server on Express;
@@ -112,7 +114,6 @@ Tasks:
 
 Technologies: HTML, CSS, React, Express, MongoDB, NodeJS, API, Nginx, JWT, Postman
 
-Github: https://github.com/polexka/react-mesto-api-full-gha
 
 `Study project, 2022`
 
@@ -123,6 +124,7 @@ Tasks:
 - create a client to interact with the database.
 
 Technologies: MySQL, PHPMyAdmin, C#
+
 
 `Academic practice, 2022`
 
