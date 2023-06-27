@@ -12,12 +12,17 @@ discord: pol1chka | tg: polexka
 ## Education
 
 `2020-2026` 
+
 __Saint Petersburg Electrotechnical University__
+
 Faculty of Computer Technology and Informatics
+
 Information Security
 
 `2022-2023` 
+
 __Yandex.Practicum__
+
 Web Development Department
 
 ## Skills
@@ -71,7 +76,9 @@ console.log(getNoun(anotherDuration, declensions));
 ## Experience
 
 `Study project, 2022`
+
 __Movie Searcher__
+
 Tasks:
 - set up the infrastructure and create a server on Express;
 - connect database, create API schemas and resource models;
@@ -84,11 +91,15 @@ Tasks:
 - received movies should be filtered on the client side.
 
 Technologies: HTML, CSS, React, Express, MongoDB, NodeJS, API, Nginx, JWT, Postman
+
 Frontend GH: https://github.com/polexka/movies-explorer-frontend 
+
 Backend GH: https://github.com/polexka/movies-explorer-api
 
 `Study project, 2022`
+
 __Photo sharing social network__
+
 Tasks: 
 - create a server on Express;
 - connect database, create API schemas and resource models;
@@ -100,10 +111,13 @@ Tasks:
 - elaborate authorized and unauthorized states, setting and removing likes from image cards.
 
 Technologies: HTML, CSS, React, Express, MongoDB, NodeJS, API, Nginx, JWT, Postman
+
 Github: https://github.com/polexka/react-mesto-api-full-gha
 
 `Study project, 2022`
+
 __Database design__
+
 Tasks: 
 - design the database, create API schemas and resource models;
 - create a client to interact with the database.
@@ -111,7 +125,9 @@ Tasks:
 Technologies: MySQL, PHPMyAdmin, C#
 
 `Academic practice, 2022`
+
 __Software functionality research and development of functional analogues__
+
 Tasks: 
 - analysis of the original "gray box" application and its disassembling;
 - functional analog development in C and FASM.
